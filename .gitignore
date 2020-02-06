@@ -1,9 +1,5 @@
 # <<< Python >>>
 
-text
-cleanText
-neuroAbstracts
-
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
